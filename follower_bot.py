@@ -5,7 +5,7 @@ import schedule
 from datetime import datetime, timedelta
 
 USERNAME = 'aurora_creation1'
-PASSWORD = 'Milan2025@'
+PASSWORD = '******'
 
 tags = ["pixelart", "gamedev", "indiegame", "pythoncoding", "programming", "coding", "python", "javascript", "webdevelopment", "webdesign", "webdeveloper", "webdev", "webdesigner", "webdesigning"]
 
